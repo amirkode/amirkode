@@ -33,6 +33,7 @@ I'm a software engineer (polyglot). I'm from and living in Indonesia, I'm curren
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
-
-<img height="160em" align="center" src="https://github-readme-stats-p12h0mhkf-amirkode.vercel.app/api/top-langs/?username=amirkode&hide=css,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&layout=compact&custom_title=Top 5 Most Used Language" />
-<img height="160em" align="center" src="https://github-readme-stats-p12h0mhkf-amirkode.vercel.app/api?username=amirkode&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&include_all_commits=true&custom_title=amirkode's Stats"/>
+<p>
+  <img height="160em" src="https://github-readme-stats-p12h0mhkf-amirkode.vercel.app/api/top-langs/?username=amirkode&hide=css,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&layout=compact&custom_title=Top 5 Most Used Language" />
+  <img height="160em" src="https://github-readme-stats-p12h0mhkf-amirkode.vercel.app/api?username=amirkode&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&include_all_commits=true&custom_title=amirkode's Stats"/>
+</p>
