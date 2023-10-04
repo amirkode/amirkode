@@ -1,5 +1,5 @@
 <h2>Hi 👋, I'm Amir Mu'tashim Billah</h2>
-I'm a software engineer (polyglot). I'm from and living in Indonesia, I'm currently working at SIRCLO and having some side projects as well. You can find me on <a href="https://amirmb.com" traget="_blank">amirmb.com</a>
+I'm a software engineer (Full-Stack). I'm from and living in Indonesia, I'm currently working at SIRCLO and having some side projects as well. You can find me on <a href="https://amirmb.com" traget="_blank">amirmb.com</a>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
