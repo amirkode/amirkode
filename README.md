@@ -1,5 +1,5 @@
 <h2>Hi 👋, I'm Amir Mu'tashim Billah</h2>
-I am a Full-Stack Software Engineer based in Indonesia, currently working at [SIRCLO](https://www.sirclo.com/) while also working on several side projects. You can find me on <a href="https://amirmb.com" traget="_blank">amirmb.com</a>
+I am a Full-Stack Software Engineer based in Indonesia, currently working at <a href="https://www.sirclo.com" traget="_blank">SIRCLO</a> while also working on several side projects. You can find me on <a href="https://amirmb.com" traget="_blank">amirmb.com</a>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
