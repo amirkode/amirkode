@@ -1,6 +1,9 @@
-<h2>Hi 👋, I'm Amir Mu'tashim Billah</h2>
-I am a Full-Stack Software Engineer based in Indonesia, currently working at <a href="https://www.sirclo.com" traget="_blank">SIRCLO</a> while also working on several side projects. You can find me on <a href="https://amirmb.com" traget="_blank">amirmb.com</a>
+<h2>Hi 👋</h2>
+I am a Full-Stack Software Engineer based in Indonesia, currently working at <a href="https://www.sirclo.com" traget="_blank">SIRCLO</a> while also working on several side projects (publicly and privately). You can find me on <a href="https://amirmb.com" traget="_blank">amirmb.com</a>
 
+<!--
+Ofc, these sections will keep changing over time.
+So, it's better to take it out
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
@@ -33,7 +36,7 @@ I am a Full-Stack Software Engineer based in Indonesia, currently working at <a 
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Helm-informational?style=flat&logo=Helm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
-
+-->
 ## &#x1f4c8; GitHub Stats
 <p>
   <img height="160em" src="https://github-readme-stats-p12h0mhkf-amirkode.vercel.app/api/top-langs/?username=amirkode&hide=css,html,blade,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6&layout=compact&custom_title=Top%206%20Most%20Used%20Language" />
