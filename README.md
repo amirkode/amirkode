@@ -39,8 +39,8 @@ So, it's better to take it out
 -->
 ## &#x1f4c8; Stats
 <p>
-  <img height="160em" src="https://github-readme-stats-p12h0mhkf-amirkode.vercel.app/api/top-langs/?username=amirkode&hide=css,html,blade,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6&layout=compact&custom_title=Top%206%20Most%20Used%20Language" />
-  <img height="160em" src="https://github-readme-stats-p12h0mhkf-amirkode.vercel.app/api?username=amirkode&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&include_all_commits=true&custom_title=amirkode%27s%20Stats"/>
+  <img height="180em" src="https://ghrs.amirmb.com/top-langs/?username=amirkode&hide=css,html,blade,tex,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact&custom_title=Top%2010%20Most%20Used%20Language" />
+  <img height="180em" src="https://ghrs.amirmb.com/?username=amirkode&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&include_all_commits=true&custom_title=amirkode%27s%20Stats"/>
 </p>
 
 ![](https://ghpvc.amirmb.com/?username=amirkode&color=brightgreen&style=for-the-badge)
